@@ -1,0 +1,16 @@
+C:\Users\1323060\Desktop\aquariusChatClient\bin\Debug\aquariusChatClient.exe
+C:\Users\1323060\Desktop\aquariusChatClient\bin\Debug\aquariusChatClient.pdb
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.Form1.resources
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.Properties.Resources.resources
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.csproj.GenerateResource.Cache
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.exe
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.pdb
+C:\Users\1323060\Desktop\aquariusChatClient\obj\x86\Debug\aquariusChatClient.csprojResolveAssemblyReference.cache
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.exe
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.pdb
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\bin\Debug\aquariusChatClient.exe
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\bin\Debug\aquariusChatClient.pdb
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.csprojResolveAssemblyReference.cache
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.Form1.resources
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.Properties.Resources.resources
+C:\Users\1323060\Desktop\portfollio\aquariusChatClient\obj\x86\Debug\aquariusChatClient.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\1323060\Desktop\portfollio\aquariusServer\bin\Debug\aquariusServer.exe
+C:\Users\1323060\Desktop\portfollio\aquariusServer\obj\x86\Debug\aquariusServer.Form1.resources
+C:\Users\1323060\Desktop\portfollio\aquariusServer\obj\x86\Debug\aquariusServer.Properties.Resources.resources
+C:\Users\1323060\Desktop\portfollio\aquariusServer\obj\x86\Debug\aquariusServer.csproj.GenerateResource.Cache
+C:\Users\1323060\Desktop\portfollio\aquariusServer\obj\x86\Debug\aquariusServer.exe
+C:\Users\1323060\Desktop\portfollio\aquariusServer\obj\x86\Debug\aquariusServer.pdb
+C:\Users\1323060\Desktop\portfollio\aquariusServer\bin\Debug\aquariusServer.pdb

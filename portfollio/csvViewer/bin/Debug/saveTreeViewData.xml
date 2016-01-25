@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeViewClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrefectureName>root</PrefectureName>
+  <Children>
+    <TreeViewClass>
+      <PrefectureName>"北海道"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"青森県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"岩手県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"宮城県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"秋田県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"山形県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"福島県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"茨城県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"栃木県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"群馬県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"埼玉県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"千葉県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"東京都"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"神奈川県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"新潟県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"富山県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"石川県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"福井県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"山梨県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"長野県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"岐阜県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"静岡県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"愛知県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"三重県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"滋賀県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"京都府"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"大阪府"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"兵庫県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"奈良県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"和歌山県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"鳥取県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"島根県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"岡山県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"広島県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"山口県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"徳島県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"香川県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"愛媛県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"高知県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"福岡県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"佐賀県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"長崎県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"熊本県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"大分県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"宮崎県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"鹿児島県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+    <TreeViewClass>
+      <PrefectureName>"沖縄県"</PrefectureName>
+      <Children />
+    </TreeViewClass>
+  </Children>
+</TreeViewClass>

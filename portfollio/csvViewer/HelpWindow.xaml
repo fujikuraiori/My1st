@@ -1,0 +1,13 @@
+﻿<Window x:Class="Tsuchidasan.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelpWindow" Height="206" Width="656">
+    <Grid>
+        <TextBlock TextWrapping ="Wrap">
+            使用方法<LineBreak/><LineBreak/>
+            　CSVファイル、またはCSVファイルが入ったフォルダを左枠のTreeViewにドラッグ＆ドロップすることで
+            CSVの中身をデータベースに追加することができます。また追加した項目をクリックすることで右のCsvDataViewに表示することができます。<LineBreak/>
+            　CSVDataViewの中身はそのまま編集することが可能であり、Shift+S　で保存することが出来ます。<LineBreak/>               
+        </TextBlock>
+    </Grid>
+</Window>
