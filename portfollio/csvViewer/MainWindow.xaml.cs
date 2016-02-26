@@ -66,14 +66,11 @@ namespace Tsuchidasan
         /// <param name="e"></param>
         void DataWindow_Closing(object sender, CancelEventArgs e)
         {
-            //保存するクラス(SampleClass)のインスタンスを作成
             //XmlSerializerオブジェクトを作成
             //オブジェクトの型を指定する
-            System.Xml.Serialization.XmlSerializer serializer =
-                new System.Xml.Serialization.XmlSerializer(typeof(TreeViewClass));
+            System.Xml.Serialization.XmlSerializer serializer = new System.Xml.Serialization.XmlSerializer(typeof(TreeViewClass));
             //書き込むファイルを開く（UTF-8 BOM無し）
-            System.IO.StreamWriter sw = new System.IO.StreamWriter(
-                SaveDataPath, false, new System.Text.UTF8Encoding(false));
+            System.IO.StreamWriter sw = new System.IO.StreamWriter(SaveDataPath, false, new System.Text.UTF8Encoding(false));
             //シリアル化し、XMLファイルに保存する
             serializer.Serialize(sw, root_);
             //ファイルを閉じる

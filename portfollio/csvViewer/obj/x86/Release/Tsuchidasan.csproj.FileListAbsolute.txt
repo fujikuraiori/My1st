@@ -34,3 +34,6 @@ C:\Users\1323060\Desktop\csvViewer\1323060_fujikura\obj\x86\Release\MainWindow.b
 C:\Users\1323060\Desktop\csvViewer\1323060_fujikura\obj\x86\Release\Tsuchidasan.g.resources
 C:\Users\1323060\Desktop\csvViewer\1323060_fujikura\obj\x86\Release\Tsuchidasan.Properties.Resources.resources
 C:\Users\1323060\Desktop\csvViewer\1323060_fujikura\obj\x86\Release\Tsuchidasan.csproj.GenerateResource.Cache
+C:\Users\1323060\GitHub\My1st\portfollio\csvViewer\bin\Release\Tsuchidasan.exe.config
+C:\Users\1323060\GitHub\My1st\portfollio\csvViewer\obj\x86\Release\Tsuchidasan.exe
+C:\Users\1323060\GitHub\My1st\portfollio\csvViewer\obj\x86\Release\Tsuchidasan.pdb
