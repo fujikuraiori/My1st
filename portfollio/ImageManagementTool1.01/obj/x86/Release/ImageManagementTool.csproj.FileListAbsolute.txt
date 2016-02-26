@@ -1,0 +1,16 @@
+C:\Users\1323060\Desktop\ImageManagementTool\bin\Release\ImageManagementTool.exe
+C:\Users\1323060\Desktop\ImageManagementTool\bin\Release\ImageManagementTool.pdb
+C:\Users\1323060\Desktop\ImageManagementTool\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\App.baml
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\MainWindow.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\App.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool_MarkupCompile.cache
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool_MarkupCompile.lref
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\MainWindow.baml
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.g.resources
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.Properties.Resources.resources
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.csproj.GenerateResource.Cache
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.exe
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.pdb
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Release\ImageManagementTool.csprojResolveAssemblyReference.cache

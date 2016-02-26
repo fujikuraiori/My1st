@@ -1,0 +1,15 @@
+﻿<Window x:Class="ImageManagementTool.MovieMaking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MovieMaking" Height="300" Width="300" >
+    <DockPanel>
+        <Label Content="フレームレート" DockPanel.Dock="Top" />
+        <TextBox Name="Rate" DockPanel.Dock="Top" Text="24" />
+        <Label Content = "動画名 .mp4" DockPanel.Dock="Top"/>
+        <TextBox Name="VideoName" DockPanel.Dock="Top" Text="video" />
+        <Label Content = "連番桁 ImageXXXX←Xの数" DockPanel.Dock="Top"/>
+        <TextBox Name="Digit" DockPanel.Dock="Top" Text="4" />
+        <Button Content="動画生成" Name="button1" DockPanel.Dock="Bottom" Click="button1_Click" />
+        
+    </DockPanel>
+</Window>

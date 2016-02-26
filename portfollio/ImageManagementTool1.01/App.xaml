@@ -1,0 +1,13 @@
+﻿<Application x:Class="ImageManagementTool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ImageManagementTool"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate x:Key="ImageListTemplate" DataType="{x:Type local:ImageInfo}">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Name}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,16 @@
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\MainWindow.baml
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\App.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool_MarkupCompile.cache
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool.g.resources
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool.Properties.Resources.resources
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool.csproj.GenerateResource.Cache
+C:\Users\1323060\Desktop\ImageManagementTool\bin\Debug\ImageManagementTool.exe
+C:\Users\1323060\Desktop\ImageManagementTool\bin\Debug\ImageManagementTool.pdb
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool.exe
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool.pdb
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\ImageManagementTool_MarkupCompile.lref
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\App.baml
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\MovieMaking.baml
+C:\Users\1323060\Desktop\ImageManagementTool\obj\x86\Debug\MovieMaking.g.cs
