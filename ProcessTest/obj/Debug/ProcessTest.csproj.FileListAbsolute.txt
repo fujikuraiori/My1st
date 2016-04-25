@@ -1,0 +1,29 @@
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\bin\Debug\ProcessTest.exe.config
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.csprojResolveAssemblyReference.cache
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\App.g.cs
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest_MarkupCompile.cache
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest_MarkupCompile.lref
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.g.resources
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.Properties.Resources.resources
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.csproj.GenerateResource.Cache
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.pdb
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\bin\Debug\ProcessTest.exe
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\bin\Debug\ProcessTest.pdb
+c:\users\fujikura\documents\visual studio 2015\Projects\ProcessTest\obj\Debug\ProcessTest.exe
+C:\Users\fujikura\Documents\Visual Studio 2015\Projects\ProcessTest\obj\Debug\ProccesTestMainWindow.g.cs
+C:\Users\fujikura\Documents\Visual Studio 2015\Projects\ProcessTest\obj\Debug\ProccesTestMainWindow.baml
+C:\Users\admin\Desktop\ProcessTest\bin\Debug\ProcessTest.exe.config
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.exe
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.pdb
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest_MarkupCompile.cache
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest_MarkupCompile.lref
+C:\Users\admin\Desktop\ProcessTest\bin\Debug\ProcessTest.exe
+C:\Users\admin\Desktop\ProcessTest\bin\Debug\ProcessTest.pdb
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTestMain.g.cs
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTestMain.baml
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.g.resources
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.Properties.Resources.resources
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ProcessTest\obj\Debug\GeneratedInternalTypeHelper.g.cs

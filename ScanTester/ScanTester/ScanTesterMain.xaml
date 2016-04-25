@@ -1,0 +1,38 @@
+﻿<Window x:Class="ScanTester.ScanTesterMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScanTester"
+        mc:Ignorable="d"
+        Title="ScanTesterMain" Height="150" Width="350">
+    <Window.DataContext>
+        <local:ViewModel/>
+    </Window.DataContext>
+    <DockPanel>
+        <Button x:Name="button" Content="Button" Click="button_Click" DockPanel.Dock="Top"/>
+        <DockPanel DockPanel.Dock="Bottom">
+            <DockPanel DockPanel.Dock="Right">
+                <TextBlock Text="平均縦幅誤差 : "/>
+                <TextBlock Text="{Binding AveHeiError}"/>
+            </DockPanel>
+            <DockPanel>
+                <TextBlock Text="最大縦幅誤差 : "/>
+                <TextBlock Text="{Binding MaxHeiError}"/>
+            </DockPanel>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Bottom">
+            <DockPanel DockPanel.Dock="Right">
+                <TextBlock Text="平均横幅誤差 : "/>
+                <TextBlock Text="{Binding AveWidError}"/>
+            </DockPanel>
+            <DockPanel>
+                <TextBlock Text="最大横幅誤差 : "/>
+                <TextBlock Text="{Binding MaxWidError}"/>
+            </DockPanel>
+        </DockPanel>
+        <ListBox ItemsSource="{Binding Path = MyList}" IsSynchronizedWithCurrentItem="True" ItemTemplate="{StaticResource ImageListTemplate}">
+            
+        </ListBox>
+    </DockPanel>
+</Window>

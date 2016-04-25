@@ -1,0 +1,26 @@
+﻿<Application x:Class="ScanTester.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ScanTester"
+             Startup="Application_Startup">
+    <Application.Resources>
+        <DataTemplate x:Key="ImageListTemplate" DataType="{x:Type local:ImageDatas}">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="名前 : " />
+                <TextBlock Text="{Binding imgName}"/>
+                <TextBlock Text="横幅 : " />
+                <TextBlock Text="{Binding imgWidth}"/>
+                <TextBlock Text=" 縦幅 : " />
+                <TextBlock Text="{Binding imgHeight}"/>
+                <TextBlock Text=" 横DPI : " />
+                <TextBlock Text="{Binding horizontalResolution}"/>
+                <TextBlock Text=" 縦DPI : " />
+                <TextBlock Text="{Binding verticalResolution}"/>
+                <TextBlock Text=" 横平均誤差 : " />
+                <TextBlock Text="{Binding widError}"/>
+                <TextBlock Text=" 縦平均誤差 : " />
+                <TextBlock Text="{Binding heiError}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Application.Resources>
+</Application>
