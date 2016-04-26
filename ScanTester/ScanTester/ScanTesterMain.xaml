@@ -9,30 +9,33 @@
     <Window.DataContext>
         <local:ViewModel/>
     </Window.DataContext>
+
     <DockPanel>
-        <Button x:Name="button" Content="Button" Click="button_Click" DockPanel.Dock="Top"/>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Name="load" Header="画像フォルダ選択" Click="MenuItem_Click" />
+            <MenuItem Name="save" Header="保存" Click="save_Click" />
+        </Menu>
+        <Button x:Name="button" Content="画像フォルダ選択" Click="button_Click" DockPanel.Dock="Top"/>
         <DockPanel DockPanel.Dock="Bottom">
             <DockPanel DockPanel.Dock="Right">
                 <TextBlock Text="平均縦幅誤差 : "/>
-                <TextBlock Text="{Binding AveHeiError}"/>
+                <TextBlock Text="{Binding Errors.aveHeiError}"/>
             </DockPanel>
             <DockPanel>
                 <TextBlock Text="最大縦幅誤差 : "/>
-                <TextBlock Text="{Binding MaxHeiError}"/>
+                <TextBlock Text="{Binding Errors.maxHeiError}"/>
             </DockPanel>
         </DockPanel>
         <DockPanel DockPanel.Dock="Bottom">
             <DockPanel DockPanel.Dock="Right">
                 <TextBlock Text="平均横幅誤差 : "/>
-                <TextBlock Text="{Binding AveWidError}"/>
+                <TextBlock Text="{Binding Errors.aveWidError}"/>
             </DockPanel>
             <DockPanel>
                 <TextBlock Text="最大横幅誤差 : "/>
-                <TextBlock Text="{Binding MaxWidError}"/>
+                <TextBlock Text="{Binding Errors.maxWidError}"/>
             </DockPanel>
         </DockPanel>
-        <ListBox ItemsSource="{Binding Path = MyList}" IsSynchronizedWithCurrentItem="True" ItemTemplate="{StaticResource ImageListTemplate}">
-            
-        </ListBox>
+        <ListBox ItemsSource="{Binding Path = MyList}" IsSynchronizedWithCurrentItem="True" ItemTemplate="{StaticResource ImageListTemplate}" />
     </DockPanel>
 </Window>

@@ -13,3 +13,19 @@ c:\users\admin\documents\visual studio 2015\Projects\ScanTester\ScanTester\obj\D
 c:\users\admin\documents\visual studio 2015\Projects\ScanTester\ScanTester\obj\Debug\ScanTester.exe
 c:\users\admin\documents\visual studio 2015\Projects\ScanTester\ScanTester\obj\Debug\ScanTester.pdb
 C:\Users\admin\Documents\Visual Studio 2015\Projects\ScanTester\ScanTester\obj\Debug\App.baml
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\bin\Debug\ScanTester.exe.config
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.exe
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.pdb
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\bin\Debug\ScanTester.exe
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\bin\Debug\ScanTester.pdb
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTesterMain.g.cs
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\App.g.cs
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester_MarkupCompile.cache
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester_MarkupCompile.lref
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\App.baml
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTesterMain.baml
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.g.resources
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\My1st\ScanTester\ScanTester\obj\Debug\ScanTester.csprojResolveAssemblyReference.cache

@@ -27,3 +27,6 @@ C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.g.resources
 C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.Properties.Resources.resources
 C:\Users\admin\Desktop\ProcessTest\obj\Debug\ProcessTest.csproj.GenerateResource.Cache
 C:\Users\admin\Desktop\ProcessTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\GitHub\My1st\ProcessTest\bin\Debug\ProcessTest.exe.config
+C:\Users\admin\Documents\GitHub\My1st\ProcessTest\obj\Debug\ProcessTest.exe
+C:\Users\admin\Documents\GitHub\My1st\ProcessTest\obj\Debug\ProcessTest.pdb
